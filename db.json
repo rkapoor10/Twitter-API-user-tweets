@@ -23,6 +23,17 @@
       "retweets":43
     },
     {
+      "id": 1298,
+      "firstName": "Rushikesh",
+      "lastName": "Tarapure",
+      "userImage": "https://pbs.twimg.com/profile_images/1465392583194992640/qAD__iJb_400x400.jpg",
+      "userName": "Neo_MonkStar",
+      "tweetImg": "https://pbs.twimg.com/media/FSN1EzCaAAEc5Fa?format=jpg&name=small",
+      "likes":23,
+      "comments":30,
+      "retweets":43
+    },
+    {
       "id": 1295,
       "firstName": "Raghav",
       "lastName": "Bang",
